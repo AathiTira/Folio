@@ -19,7 +19,7 @@ CLOUDINARY_API_SECRET=...
 npm install
 npm run build
 ```
-in the respective folders
+each in the respective folders
 
 ## Start the app:
 ```
